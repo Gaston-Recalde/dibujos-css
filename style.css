@@ -355,3 +355,448 @@ body {
     left: 80px;
     border-radius: 50px 50px 50px 50px
 }
+
+/* Stripes */
+.card__dibujo-stripes,
+#a__stripes,
+#b__stripes,
+#c__stripes,
+#d__stripes,
+#e__stripes,
+#f__stripes,
+#g__stripes {
+    background: #1A4341;
+    overflow: hidden;
+}
+
+/* div {
+    position: fixed
+} */
+
+#a__stripes {
+    background: #F3AC3C;
+    width: 160px;
+    height: 180px;
+    top: 60px;
+    left: 95px
+}
+
+#b__stripes,
+#c__stripes {
+    width: 150px;
+    height: 220px;
+    top: 40px;
+    left: -25px;
+    border-radius: 100%;
+
+}
+
+#c__stripes {
+    left: 225px
+}
+
+#d__stripes,
+#e__stripes,
+#f__stripes,
+#g__stripes {
+    width: 100%;
+    height: 20px;
+    top: 80px
+}
+
+#e__stripes {
+    top: 120px
+}
+
+#f__stripes {
+    top: 160px
+}
+
+#g__stripes {
+    top: 200px
+}
+
+/* Corona Virus */
+.card__dibujo-corona-virus {
+    background: #1A4341
+}
+
+#a__corona-virus,
+#b__corona-virus,
+#c__corona-virus,
+#d__corona-virus,
+#e__corona-virus,
+#f__corona-virus,
+#g__corona-virus {
+    /* position: fixed; */
+    background: #F3AC3C
+}
+
+#a__corona-virus {
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 125px;
+    border-radius: 100%
+}
+
+#b__corona-virus,
+#c__corona-virus,
+#d__corona-virus {
+    width: 10px;
+    height: 180px;
+    top: 50px;
+    left: 170px;
+    border-radius: 120px
+}
+
+#c__corona-virus {
+    top: 55px;
+    left: 179px;
+    transform: rotate(60deg)
+}
+
+#d__corona-virus {
+    top: 65px;
+    left: 179px;
+    transform: rotate(-60deg)
+}
+
+#e__corona-virus,
+#f__corona-virus,
+#g__corona-virus {
+    background: #998235;
+    width: 10px;
+    height: 10px;
+    top: 120px;
+    left: 195px;
+    border-radius: 100%
+}
+
+#f__corona-virus {
+    width: 30px;
+    height: 30px;
+    left: 145px;
+    top: 40%
+}
+
+#g__corona-virus {
+    width: 20px;
+    height: 20px;
+    top: 165px;
+    left: 165px
+}
+
+/* Wear a mask */
+.card__dibujo-wear-a-mask,
+#a__wear-a-mask,
+#b__wear-a-mask,
+#c__wear-a-mask,
+#d__wear-a-mask {
+    background: #293462
+}
+
+/* div {
+    position: fixed
+} */
+
+#a__wear-a-mask {
+    width: 250px;
+    height: 50px;
+    top: 100px;
+    left: 49px;
+    border: 10px solid #FFF1C1;
+    border-radius: 50px
+}
+
+#b__wear-a-mask {
+    background: #FFF1C1;
+    width: 150px;
+    height: 100px;
+    top: 100px;
+    left: 100px;
+    border-radius: 0px 0px 50px 50px
+}
+
+#c__wear-a-mask,
+#d__wear-a-mask {
+    background: #FE5F55;
+    width: 40px;
+    height: 40px;
+    top: 140px;
+    left: 190px;
+    border-radius: 50%
+}
+
+#d__wear-a-mask {
+    width: 40px;
+    height: 10px;
+    top: 120px;
+    left: 120px;
+    border-radius: 50px;
+    box-shadow: 0 20px #FE5F55
+}
+
+/* sanitizer */
+.card__dibujo-sanitizer {
+    background: #1A4341
+}
+
+#a__sanitizer,
+#b__sanitizer,
+#c__sanitizer,
+#d__sanitizer,
+#e__sanitizer,
+#f__sanitizer,
+#g__sanitizer,
+#h__sanitizer,
+#i__sanitizer {
+    /* position: fixed; */
+    background: #F3AC3C
+}
+
+#a__sanitizer {
+    width: 100px;
+    height: 140px;
+    top: 110px;
+    left: 125px;
+    border-radius: 20px
+}
+
+#b__sanitizer,
+#c__sanitizer,
+#d__sanitizer,
+#i__sanitizer {
+    background: #998235;
+    width: 50px;
+    height: 100px;
+    top: 140px;
+    left: 125px;
+    border-radius: 50px
+}
+
+#c__sanitizer {
+    width: 100px;
+    height: 90px;
+    top: 160px;
+    border-radius: 20px
+}
+
+#d__sanitizer {
+    background: #F3AC3C;
+    left: 175px;
+    top: 120px;
+    height: 70px
+}
+
+#e__sanitizer {
+    width: 50px;
+    height: 30px;
+    top: 90px;
+    left: 150px;
+    border-radius: 10px
+}
+
+#f__sanitizer,
+#h__sanitizer {
+    width: 20px;
+    height: 30px;
+    top: 60px;
+    left: 165px
+}
+
+#g__sanitizer {
+    width: 150px;
+    height: 20px;
+    top: 50px;
+    left: 125px;
+    border-radius: 50px
+}
+
+#h__sanitizer {
+    height: 40px;
+    top: 50px;
+    left: 255px;
+    border-radius: 50px
+}
+
+#i__sanitizer {
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 255px;
+    box-shadow: 0px 30px #998235
+}
+
+/* black lives matter */
+.card__dibujo-black {
+    background: #F9E492
+}
+
+#a__black,
+#b__black,
+#c__black,
+#d__black,
+#e__black,
+#f__black,
+#g__black {
+    /* position: fixed; */
+    background: #191919
+}
+
+#a__black,
+#b__black {
+    width: 100px;
+    height: 40px;
+    top: 138px;
+    left: 125px;
+    border-radius: 0px 0px 10px 10px
+}
+
+#b__black {
+    width: 50px;
+    height: 50px;
+    top: 173px;
+    left: 150px
+}
+
+#c__black,
+#d__black,
+#e__black,
+#f__black,
+#g__black {
+    width: 20px;
+    height: 45px;
+    top: 88px;
+    left: 130px;
+    border-radius: 50px
+}
+
+#d__black {
+    top: 78px;
+    left: 155px;
+    height: 55px
+}
+
+#e__black {
+    left: 180px
+}
+
+#f__black {
+    top: 98px;
+    left: 205px;
+    height: 35px
+}
+
+#g__black {
+    height: 65px;
+    width: 25px;
+    top: 104px;
+    left: 127px;
+    transform: rotate(60deg);
+    border: 5px solid #F9E492
+}
+
+/* skull */
+.card__dibujo-skull,
+#a__skull,
+#b__skull,
+#c__skull,
+#d__skull,
+#e__skull {
+    background: #191919
+}
+
+/* div {
+    position: fixed
+} */
+
+#a__skull,
+#b__skull {
+    background: #4F77FF;
+    width: 120px;
+    height: 100px;
+    top: 85px;
+    left: 115px;
+    border-radius: 70px 70px 13px 13px
+}
+
+#b__skull {
+    width: 80px;
+    height: 50px;
+    top: 165px;
+    left: 135px;
+    border-radius: 20px
+}
+
+#c__skull {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    top: 138px;
+    left: 130px;
+    box-shadow: 50px 0 #191919
+}
+
+#d__skull {
+    width: 20px;
+    height: 20px;
+    top: 176px;
+    left: 165px;
+    border-radius: 50%
+}
+
+#e__skull {
+    width: 10px;
+    height: 15px;
+    top: 205px;
+    left: 155px;
+    border-radius: 20px;
+    box-shadow: 15px 0 #191919, 30px 0 #191919
+}
+
+/* candle */
+.card__dibujo-candle {
+    background: #14313E
+}
+
+/* div {
+    position: fixed
+} */
+
+#a__candle {
+    background: #F3AC3C;
+    width: 30px;
+    height: 50px;
+    top: 60px;
+    left: 175px;
+    border-radius: 100px 0px 100px 0px;
+    z-index: 2
+}
+
+#b__candle {
+    background: #BA3E46;
+    width: 80px;
+    height: 115px;
+    top: 125px;
+    left: 135px;
+    border-radius: 0px 0px 100px 100px / 0px 0px 35px 35px
+}
+
+#c__candle {
+    width: 80px;
+    height: 0px;
+    border: 15px solid #F3695A;
+    border-radius: 100%;
+    top: 110px;
+    left: 135px
+}
+
+#d__candle {
+    background: #14313E;
+    width: 60px;
+    height: 30px;
+    border-radius: 100%;
+    top: 100px;
+    left: 145px
+}
