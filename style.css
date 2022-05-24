@@ -36,8 +36,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     gap: 25px;
-    /* display: grid; */
-    /* margin: 50px 0; */
 }
 
 .h3__a {
@@ -46,12 +44,6 @@ body {
 }
 
 .section__card {
-    /* background-color: #A927DB; */
-    /* width: 100%;
-    max-width: 336px;
-    height: 100%;
-    border: 1px solid #000;
-    border-radius: 10px; */
     max-width: 336px;
     flex: 336px;
     margin: 0 auto;
@@ -62,8 +54,6 @@ body {
 }
 
 .card__dibujo {
-    /* width: 100%; */
-    /* max-width: 400px; */
     height: 300px;
     position: relative;
     bottom: 0;
@@ -262,7 +252,6 @@ body {
     background: #293462
 }
 
-/* div{position:fixed} */
 #a__fox__head,
 #b__fox__head,
 #e__fox__head,
@@ -320,10 +309,6 @@ body {
     background: #293462
 }
 
-/* div {
-    position: absolute
-} */
-
 #g__baby {
     background: #FE5F55;
     width: 200px;
@@ -377,10 +362,6 @@ body {
     background: #1A4341;
     overflow: hidden;
 }
-
-/* div {
-    position: fixed
-} */
 
 #a__stripes {
     background: #F3AC3C;
@@ -437,7 +418,6 @@ body {
 #e__corona-virus,
 #f__corona-virus,
 #g__corona-virus {
-    /* position: fixed; */
     background: #F3AC3C
 }
 
@@ -505,10 +485,6 @@ body {
     background: #293462
 }
 
-/* div {
-    position: fixed
-} */
-
 #a__wear-a-mask {
     width: 250px;
     height: 50px;
@@ -560,7 +536,6 @@ body {
 #g__sanitizer,
 #h__sanitizer,
 #i__sanitizer {
-    /* position: fixed; */
     background: #F3AC3C
 }
 
@@ -649,7 +624,6 @@ body {
 #e__black,
 #f__black,
 #g__black {
-    /* position: fixed; */
     background: #191919
 }
 
@@ -716,10 +690,6 @@ body {
     background: #191919
 }
 
-/* div {
-    position: fixed
-} */
-
 #a__skull,
 #b__skull {
     background: #4F77FF;
@@ -768,10 +738,6 @@ body {
 .card__dibujo-candle {
     background: #14313E
 }
-
-/* div {
-    position: fixed
-} */
 
 #a__candle {
     background: #F3AC3C;
